@@ -1,0 +1,5 @@
+app_name = 'Quick Hire'
+myhost ='localhost'
+myuser = 'root'
+mypassword = ''
+mydb = 'quick_hire'
